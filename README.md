@@ -1,3 +1,3 @@
 # Avans Civiele Techniek Python app
 
-Open het bestand `template CTO.ipynb` voor meer informatie.
+Open het bestand `template-cto.ipynb` voor meer informatie.
